@@ -41,7 +41,7 @@ Retrieves details of specific API client using its ID (please use the ID not the
 
 **taegis-xdr-api-client.py GET** *id*
 
-![image 3](https://github.com/areino/taegis/blob/main/github-img/img3.png?raw=true)
+![image 3](./github-img/img3.png?raw=true)
 
 ## Delete API client
 
