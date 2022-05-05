@@ -1,9 +1,9 @@
 
 ## XDR credentials (follow steps 1-5 at https://docs.ctpx.secureworks.com/apis/api_authenticate/)
 
-xdrtenant   = 96072
-xdrid       = "9EnbHC1ZB9ceRkhA6yXImXDE4tLPKTKS"
-xdrsecret   = "6trWUHRkBtwVjqciqPil2LDFPMg98_Oi3xg49ZSsqZaKhZrQaiFKqJ4kn2i2zKSt"
+xdrtenant   = 
+xdrid       = ""
+xdrsecret   = ""
 
 ## Other
 
