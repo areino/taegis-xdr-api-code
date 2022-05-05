@@ -1,7 +1,7 @@
 # TCU
-tenant_id =         96072
-tenant_api_id =     "6gVnkmeTs7fg9S9OMs9pSkROmM8eYPBQ"
-tenant_api_secret = "4glGcyaWCSYPbZAUacoINDQtbGzRqu_Xwim4rnmhs5JBPAfp4TVN99aoohYXXwc8"
+tenant_id =         
+tenant_api_id =     ""
+tenant_api_secret = ""
 
 syslog_ip =         "localhost"
 syslog_port =       514
