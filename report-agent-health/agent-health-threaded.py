@@ -460,14 +460,9 @@ def fetch_assets(api, tenant_id):
 log("Starting...")
 
 ## Configuration
-tenant_id =         96072
-tenant_api_id =     "9EnbHC1ZB9ceRkhA6yXImXDE4tLPKTKS"
-tenant_api_secret = "6trWUHRkBtwVjqciqPil2LDFPMg98_Oi3xg49ZSsqZaKhZrQaiFKqJ4kn2i2zKSt"
-
-
-tenant_id =         96842
-tenant_api_id =     "WXB3jYqrQS0NFQOgsDU4VeBrmqQLzbAw"
-tenant_api_secret = "Fa_Hgdvqu7T-Nslh2qKtlgTkSY49_RUtRuDzvyXK8zjOaGENavxjtAqppdIEH01r"
+tenant_id =         
+tenant_api_id =     ""
+tenant_api_secret = ""
 
 
 email_sender =      ""
